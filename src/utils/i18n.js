@@ -126,9 +126,9 @@ export const i18nMap = {
     skip_recap: "ข้ามเรื่องย่อตอนที่แล้ว",
   },
   zh_CN: {
-    skip_intro: "跳过片头",
-    next_epi: "下一个节目",
-    skip_recap: "跳过回顾",
+    skip_intro: "跳过简介",
+    next_epi: "下一集",
+    skip_recap: "跳过剧情回顾",
   },
   zh_TW: {
     skip_intro: "略過簡介",
